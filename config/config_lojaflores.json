@@ -1,0 +1,14 @@
+{
+  "nome": "Flores Bella",
+  "endereco": "Avenida das Flores, 456 - Centro",
+  "horario_funcionamento": "Segunda a Sexta, das 8h às 19h; Sábados, das 8h às 14h",
+  "telefone": "(11) 98765-4321",
+  "email": "contato@floresbella.com.br",
+  "site": "www.floresbella.com.br",
+  "flores_disponiveis": "Rosas, Lírios, Orquídeas, Girassóis, Tulipas, Margaridas, Cravos",
+  "arranjos_disponiveis": "Buquês, Coroas de Flores, Arranjos de Mesa, Cestas de Café da Manhã, Decoração de Ambientes",
+  "area_entrega": "São Paulo (Capital)",
+  "taxa_entrega": "R$15,00",
+  "forma_pagamento": ["Cartão de Crédito", "Pix", "Dinheiro"],
+  "promocoes": "Na compra de um buquê de rosas vermelhas, ganhe um vaso de brinde."
+}

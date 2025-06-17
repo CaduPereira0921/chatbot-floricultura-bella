@@ -1,0 +1,33 @@
+# Ignorar arquivos de ambiente com segredos
+.env
+
+# Ignorar pastas de ambiente virtual
+venv/
+.venv/
+env/
+.env/
+
+# Ignorar caches e arquivos de compilação
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+
+# Ignorar arquivos de IDEs (Ex: VS Code, PyCharm)
+.vscode/
+.idea/
+*.iml
+
+# Ignorar logs e dados temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignorar arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de Jupyter/IPython se não forem versionados
+.ipynb_checkpoints/
